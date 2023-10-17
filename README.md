@@ -1,6 +1,7 @@
 # hello_japan
 
 ほげ
+もげ
 
 ## brtestブランチで行を追加
 
